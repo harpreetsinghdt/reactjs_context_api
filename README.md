@@ -6,4 +6,6 @@ Useful links:
 
 https://react.dev/reference/react/createContext
 
+https://react.dev/reference/react/useReducer
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce
